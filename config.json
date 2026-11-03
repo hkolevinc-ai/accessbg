@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "price_mode": "regular",
+    "quantity": 20,
+    "weight_g": null,
+    "length_cm": null,
+    "width_cm": null,
+    "height_cm": null,
+    "shipping_template": "МАГАЗИН",
+    "country_of_origin": null,
+    "manufacturer": null,
+    "eu_responsible_person": "I M G Ltd.",
+    "individually_packed": "Yes",
+    "packaging_quantity": 1,
+    "packaging_unit": "piece",
+    "confirm_seller_values": false
+  },
+  "bardahl": {
+    "manufacturer": "SADAPS-BARDAHL CORPORATION",
+    "origin_region": "EU",
+    "eu_responsible_person": null,
+    "omit_eu_responsible_person": true,
+    "estimate_packages": true
+  },
+  "phone_planet": {
+    "manufacturer": null,
+    "estimate_packages": true
+  }
+}

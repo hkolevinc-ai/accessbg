@@ -1,0 +1,24 @@
+{
+  "counts": {
+    "phone_planet": {
+      "reported": 54,
+      "discovered": 54
+    },
+    "bardahl": {
+      "reported": 83,
+      "discovered": 83
+    }
+  },
+  "discovered_urls": 137,
+  "parsed_products": 137,
+  "failed_products": 0,
+  "validated_rows": 0,
+  "review_rows": 137,
+  "in_stock": 137,
+  "complete_crawl": true,
+  "note": "VALIDATED checks template fields; it does not certify Temu approval or product compliance.",
+  "snapshot_date": "2026-11-03",
+  "revision_note": "BARDAHL EU RP blank per user; volume-based weight estimates; Phone Planet package estimates and source-backed traits",
+  "package_estimate_rows": 137,
+  "unmapped_categories": 18
+}
